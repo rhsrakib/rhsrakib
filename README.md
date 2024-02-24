@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhsrakib
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Visual Studio.
+- 🌱 I’m currently learning C# programming language.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
