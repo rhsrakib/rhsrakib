@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md. Rakib Hasan.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning C# programming language.
-- 💞️ I’m looking to collaborate on a helpful team where I can learn new technologies.
+- 💞️ I’m looking to collaborate with a helpful team where I can learn new technologies.
 - 📫 Please contact me via Email: rhsrakib030@gmail.com
 
 <!---
