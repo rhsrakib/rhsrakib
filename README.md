@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8E2DE2&center=true&vCenter=true&width=435&lines=Welcome+to+my+Code+Camp!;I'm+Mohammad+Ashik;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8E2DE2&center=true&vCenter=true&width=435&lines=Welcome+to+my+Code+Camp!;I'm+Md. + Rakib + Hasan;" alt="Typing SVG">
   </h1>
   
   <!-- Custom SVG Banner -->
@@ -9,7 +9,7 @@
   
   <p align="center">
     <a href="https://www.linkedin.com/in/md-ashikur-rahman-ashik-560b00185/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:mohammadashikidb@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:rhsrakib030@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="http://www.sarkarpalaceinfostore.com"><img src="https://img.shields.io/badge/-Website-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   </p>
   
@@ -108,6 +108,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
   ## Contact Details:
-  - Gmail: mohammadashikidb@gmail.com
-  - GitHub: [MdAshikur-Rahman-Ashik](https://github.com/MdAshikur-Rahman-Ashik)
-  - LinkedIn: [Md Ashikur Rahman Ashik](https://www.linkedin.com/in/md-ashikur-rahman-ashik-560b00185/)
+  - Gmail: rhsrakib030@gmail.com
+  - GitHub: [Md.Rakib-Hasan](https://github.com/rhsrakib)
+  - LinkedIn: [Md.Rakib-Hasan](https://www.linkedin.com/in//)
