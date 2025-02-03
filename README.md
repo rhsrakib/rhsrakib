@@ -8,7 +8,7 @@
   </p>
   
   <p align="center">
-    <a href="https://www.linkedin.com/in/md-ashikur-rahman-ashik-560b00185/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/md-rakib-hasan030/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:rhsrakib030@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="http://www.sarkarpalaceinfostore.com"><img src="https://img.shields.io/badge/-Website-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   </p>
@@ -53,7 +53,7 @@
   - **Donation Management System**: Automating donations with detailed tracking and reporting.
   - **Medical Travel Support**: Creating a comprehensive system for tracking patient activities from arrival to return in a medical tourism service.
   
-  [Explore More Projects on GitHub](https://github.com/MdAshikur-Rahman-Ashik)
+  [Explore More Projects on GitHub](https://github.com/rhsrakib)
   
   ## 📊 GitHub Analytics
   
@@ -110,4 +110,4 @@
   ## Contact Details:
   - Gmail: rhsrakib030@gmail.com
   - GitHub: [Md.Rakib-Hasan](https://github.com/rhsrakib)
-  - LinkedIn: [Md.Rakib-Hasan](https://www.linkedin.com/in//)
+  - LinkedIn: [Md.Rakib-Hasan](https://www.linkedin.com/in/md-rakib-hasan030)
