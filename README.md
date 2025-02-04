@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8E2DE2&center=true&vCenter=true&width=435&lines=Welcome+to+my+Code+Camp!;I'm+Md+Rakib+Hasan;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8E2DE2&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+Md.+Rakib+Hasan;" alt="Typing SVG">
   </h1>
   
   <!-- Custom SVG Banner -->
@@ -10,7 +10,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/md-rakib-hasan030/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:rhsrakib030@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="http://www.sarkarpalaceinfostore.com"><img src="https://img.shields.io/badge/-Website-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+    <!-- <a href="http://www.sarkarpalaceinfostore.com"><img src="https://img.shields.io/badge/-Website-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white"/></a> -->
   </p>
   
   <p align="center">
@@ -25,11 +25,11 @@
   ## 💫 About Me
   
   - 🔭 I'm currently working on **innovative web applications**
-  - 🌱 I'm currently mastering   **.NET MAUI**
+  - 🌱 I'm currently mastering   **.NET Core**
   - 👯 I'm looking to collaborate on **projects focusing on user experience and accessibility**
-  - 💬 Ask me about **.NET, Angular, React, and full-stack development**
-  - 🚀 I’m currently working on **Medical Travel Management System**
-  - ⚡ Fun fact: **I collect metro smart pass cards from around the world!**
+  - 💬 Ask me about **MS SQL Server, ADO.NET, .NET Core, Blazor, API, Angular, React, SignalR, JavaScript and jQuery**
+  - 🚀 I’m currently working on **Repair Management System, Human Resource Management(HRM), and a Project from NBR.**
+  - ⚡ Fun fact: **I'm gathering small repositories!**
   
   ## 🛠️ Tech Stack
   <h3 align="left">Languages and Tools:</h3>
@@ -49,9 +49,8 @@
   
   ## 🏆 Noteworthy Projects
   
-  - **Transportation Management System**: A full-stack solution to manage transport services and providers in a tourism agency.
-  - **Donation Management System**: Automating donations with detailed tracking and reporting.
-  - **Medical Travel Support**: Creating a comprehensive system for tracking patient activities from arrival to return in a medical tourism service.
+  - **Repair Management System**: A full-stack solution to manage total repair management for E-Products for CLS Computer(Germany).
+  - **Human Resource Management**: A full-stack solution to manage employees.
   
   [Explore More Projects on GitHub](https://github.com/rhsrakib)
   
@@ -75,22 +74,22 @@
   ## 🌐 Connect with me
   
   <p align="center">
-    <a href="https://www.linkedin.com/in/md-ashikur-rahman-ashik-560b00185/" target="_blank">
+    <a href="https://www.linkedin.com/in/md-rakib-hasan030/" target="_blank">
       <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
     </a>
-    <a href="mailto:mohammadashikidb@gmail.com" target="_blank">
+    <a href="mailto:rhsrakib030@gmail.com" target="_blank">
       <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
     </a>
-    <a href="http://www.sarkarpalaceinfostore.com" target="_blank">
+    <!-- <a href="http://www.sarkarpalaceinfostore.com" target="_blank">
       <img src="https://img.icons8.com/fluent/48/000000/domain.png"/>
-    </a>
+    </a> -->
   </p>
   
   ## 📍 Location
   
   <p align="center">
     <img src="https://img.icons8.com/color/48/000000/bangladesh.png"/>
-    Dhaka, Bangladesh-1215 | UTC +06:00
+    Dhaka, Bangladesh-1207 | UTC +06:00
   </p>
   
   ## 📚 Education
@@ -99,10 +98,6 @@
     <img src="https://img.icons8.com/color/48/000000/graduation-cap.png"/>
     Diploma in Enterprise System Analysis and Design-C#  .Net(ESAD-CS)<br>
     Islamic Development Bank-Bangladesh Islamic Solidarity Educational Wakf (IsDB-BISEW)
-  </p>
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MdAshikur-Rahman-Ashik&label=Profile%20views&color=0e75b6&style=flat" alt="MdAshikur-Rahman-Ashik" />
   </p>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
