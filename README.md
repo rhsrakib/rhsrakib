@@ -4,7 +4,7 @@
 
 <!-- Custom SVG Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Code%20With%20Passion&height=100&section=header&animation=fadeIn&fontColor=fff&fontSize=40&fontAlignY=40" width="100%" height="200px" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Code%20With%20Passion&height=100&section=header&animation=fadeIn&fontColor=fff&fontSize=40&fontAlignY=40" width="100%" height="100%" />
 </p>
 
 
@@ -16,11 +16,13 @@
 
 <!-- Introduction -->
 <p align="center">
-  <em>Aspiring programmer from Bangladesh, passionate about exploring the intersection of technology and creativity</em>
+  <em>Passionate and driven software developer from Bangladesh, dedicated to blending creativity with cutting-edge technology to build innovative solutions. Always eager to learn, grow, and contribute to meaningful projects that push the boundaries of what's possible.</em>
 </p>
 
+
 <!-- Quote -->
-<p align="center"><i>"Creativity is the mind's coding engine. Let's build something beautiful together!"</i></p>
+<p align="center"><i>"Coding is not just a skill, it's a way to bring ideas to life. Let’s create something that lasts!"</i></p>
+
 
 <!-- Profile Picture -->
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -83,11 +85,11 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-rakib-hasan030/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <a href="https://github.com/rhsrakib" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/>
   </a>
-  <a href="mailto:rhsrakib030@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+  <a href="https://www.linkedin.com/in/md-rakib-hasan030/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -105,7 +107,7 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" height="100%" />
 </p>
 
 ## Contact Details:
