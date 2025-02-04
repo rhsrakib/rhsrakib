@@ -103,9 +103,20 @@
   **Islamic Development Bank - Bangladesh Islamic Solidarity Educational Wakf (IsDB-BISEW)**
 </p>
 
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 ## Contact Details:
-- Gmail: [rhsrakib030@gmail.com](mailto:rhsrakib030@gmail.com)
-- GitHub: [Md.Rakib-Hasan](https://github.com/rhsrakib)
-- LinkedIn: [Md.Rakib-Hasan](https://www.linkedin.com/in/md-rakib-hasan030)
+<p align="center">
+  <a href="mailto:rhsrakib030@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/rhsrakib" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-rakib-hasan030/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+</p>
+
