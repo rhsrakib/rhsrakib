@@ -4,8 +4,9 @@
 
 <!-- Custom SVG Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Code%20With%20Passion&height=100&section=header&animation=fadeIn&fontColor=fff&fontSize=40&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Code%20With%20Passion&height=100&section=header&animation=fadeIn&fontColor=fff&fontSize=40&fontAlignY=40" width="100%" height="100%" />
 </p>
+
 
 <!-- Social Links -->
 <p align="center">
